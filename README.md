@@ -20,4 +20,4 @@ Feel free to reach out for collaborations, feedback, or just to chat about writi
 
 ```
 
-This example provides a basic structure with sections highlighting the writer's bio, projects, writing samples, skills, and contact information. You can expand or customize each section based on your specific experiences, projects, and preferences.
+
